@@ -22,4 +22,5 @@ You can send PRs throughout the month of October. Don't miss out...
 6. Send a PR.
 7. Done.
 
+All set We have Close to Win
 #don't forget to give a star to original repo:stars:.
